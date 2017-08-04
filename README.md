@@ -1,29 +1,23 @@
-# This is a large heading
+# Jon Leslie
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of London, in the United Kingdom
 
-- This is
-- an unordered
-- list
+### Holidays
 
-1. This is
-2. an ordered
-3. list
+I just returned from a vaction in Virginia and Massachusetts
 
-Here is `some code` in the middle of a sentence.
+It was in this order:
+- *Virginia* in **Charlottesville**
+- *Massachusetts* in **Boston** and **Sandwich**
 
-```
-This is
-a block
-of code
-```
+### Food
+Yesterday I ate the following:
+1. Breakfast
+2. Lunch
+3. Dinner
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### You can find me [[on twitter]](https://twitter.com/jlesliedata).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
